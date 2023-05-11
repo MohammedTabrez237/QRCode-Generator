@@ -10,6 +10,7 @@ This QR-code Generator is designed to generate QR of the given text or url,it is
 <br>
 Javascipt
 
+
 # :camera: Screenshot:
 ## :desktop_computer: Desktop:
 ![Screenshot (139)](https://user-images.githubusercontent.com/109822837/228044334-69dc8e97-4251-49db-ac95-84d1bbcb7cf8.png)
@@ -18,8 +19,7 @@ Javascipt
 
 ![Screenshot (140)](https://user-images.githubusercontent.com/109822837/228044558-f6dc2280-4a09-493d-a161-82ea3762fed3.png)
 
-## :iphone: Smart Phones:
-![1](https://user-images.githubusercontent.com/109822837/228044943-ad241517-885f-4985-8121-b7bfeae731d5.jpg)
-![2](https://user-images.githubusercontent.com/109822837/228044949-cf880208-b6df-4779-9bb9-b2506dc47739.jpg)
+## :iphone: Smart Phones:"
+<img height="500px"  src="https://user-images.githubusercontent.com/109822837/228044943-ad241517-885f-4985-8121-b7bfeae731d5.jpg" >
 
-
+<img height="500px" src="https://user-images.githubusercontent.com/109822837/228044949-cf880208-b6df-4779-9bb9-b2506dc47739.jpg">
